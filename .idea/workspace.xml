@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d2730a9-9772-40eb-8d04-e26bb4b41dc0" name="Changes" comment="Finished with question 8">
+      <change afterPath="$PROJECT_DIR$/src/BabyParrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BabyParrotRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LabRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.LabRunner">
+}</component>
+  <component name="RunManager" selected="Application.BabyParrotRunner">
+    <configuration name="BabyParrotRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BabyParrotRunner" />
+      <module name="ChenU2T6Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GeoRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeoRunner" />
       <module name="ChenU2T6Lab" />
@@ -54,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BabyParrotRunner" />
         <item itemvalue="Application.LabRunner" />
         <item itemvalue="Application.GeoRunner" />
       </list>

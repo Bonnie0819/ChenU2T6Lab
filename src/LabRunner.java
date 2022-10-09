@@ -13,6 +13,6 @@ public class LabRunner {
 //        System.out.println("Dear Jen, \nYou got an \"A\"! \n\nSincerely, \nThe Teacher");
 //        System.out.println(" * *\n* * *\n * *");
 //        System.out.println("\"Escape sequences are interesting\" \n _|___|_  \\(`^`\\)");
-        System.out.println("  /\\ \n /\"\"\\ \n\"  \"\\ \n \\\"  \"/");
+        System.out.println("   /\\ \n  /\"\"\\ \n /\"  \"\\ \n \\\"  \"/ \n  \\\"\"/ \n   \\/ ");
     }
 }
